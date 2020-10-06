@@ -37,7 +37,7 @@ body{
 }
 .nav-design{
   text-align: center;
-  background-image:url("https://ajyamkar.github.io/images/bg-pattern-mobile-nav.svg");
+  background-image:url("https://ajyamkar.github.io/insure/images/bg-pattern-mobile-nav.svg");
   background-color: hsl(270, 9%, 17%);
   padding-top: 2rem;
   padding-bottom: 25rem;
@@ -75,7 +75,7 @@ a.a-view:hover,button.viewbtn:hover{
   padding-top: 23rem;
   height: 40rem;
   text-align: center;
-  background-image: url("https://ajyamkar.github.io/images/bg-pattern-intro-left-mobile.svg");
+  background-image: url("https://ajyamkar.github.io/insure/images/bg-pattern-intro-left-mobile.svg");
   background-repeat: no-repeat;
 }
 
@@ -139,7 +139,7 @@ a.a-view:hover,button.viewbtn:hover{
     margin: 2rem;
     text-align: center;
     color: white;
-    background-image: url("https://ajyamkar.github.io/images/bg-pattern-how-we-work-mobile.svg");
+    background-image: url("https://ajyamkar.github.io/insure/images/bg-pattern-how-we-work-mobile.svg");
     background-repeat: no-repeat;
     background-position: 101% 14%;
 }
@@ -161,7 +161,7 @@ a.a-view:hover,button.viewbtn:hover{
 .outerDiv-lastContainer{
   background-color: hsl(0, 0%, 98%);
   padding-top: 13%;
-  background-image: url("https://ajyamkar.github.io/images/bg-pattern-footer-mobile.svg");
+  background-image: url("https://ajyamkar.github.io/insure/images/bg-pattern-footer-mobile.svg");
   background-repeat: no-repeat;
   margin-top: 30%;
 }
@@ -318,7 +318,7 @@ a.a-view:hover,button.viewbtn:hover{
     width: 64%;
     /* text-align: left; */
     color: white;
-    background-image: url("https://ajyamkar.github.io/images/bg-pattern-how-we-work-desktop.svg");
+    background-image: url("https://ajyamkar.github.io/insure/images/bg-pattern-how-we-work-desktop.svg");
     background-repeat: no-repeat;
     background-position: 101% 14%;
   }
@@ -347,7 +347,7 @@ a.a-view:hover,button.viewbtn:hover{
 
   .outerDiv-lastContainer{
     padding-top: 0;
-    background-image: url("https://ajyamkar.github.io/images/bg-pattern-footer-desktop.svg");
+    background-image: url("https://ajyamkar.github.io/insure/images/bg-pattern-footer-desktop.svg");
     background-repeat: no-repeat;
     margin-top: 15rem;
   }
